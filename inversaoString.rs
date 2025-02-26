@@ -17,3 +17,4 @@ fn main(){
         let reversed: String = input.chars() .rev() .collect();
         println!("A palavra invertida é : {} ",reversed);
     }
+    
